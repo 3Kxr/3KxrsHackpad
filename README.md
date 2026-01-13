@@ -4,13 +4,13 @@
 
 
 Bom：
-    4x Cherry MX Switches
-    2x SK6812 MINI Leds
-    1x XIAO RP2040
-    4x Blank DSA Keycaps
-    4x M3x16 Bolt
-    4x M3 Heatset
-    1x EC11 Rotary encoders
+   -  4x Cherry MX Switches
+   -  2x SK6812 MINI Leds
+   -  1x XIAO RP2040
+   -  4x Blank DSA Keycaps
+   -  4x M3x16 Bolt
+   -  4x M3 Heatset
+   -  1x EC11 Rotary encoders
 
 Others:
 
@@ -20,12 +20,12 @@ Others:
 
 ### Schematic
 
- ![Schematic](./imgs/schematic.png?raw=true)
+ ![Schematic](./imgs/schematic.jpg?raw=true)
 
 ### PCB
 
-![PCB](./imgs/pcb.png?raw=true)
+![PCB](./imgs/pcb.jpg?raw=true)
 
 ### Case
 
-![Case](./imgs/case.png?raw=true)
+![Case](./imgs/case.jpg?raw=true)
