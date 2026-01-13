@@ -1,10 +1,10 @@
-# 3Kxr’s hackpad 
+# 3Kxr’s Hackpad 
 
 > update v1.1
 
 
 Bom：
-4x Cherry MX Switches
+    4x Cherry MX Switches
     2x SK6812 MINI Leds
     1x XIAO RP2040
     4x Blank DSA Keycaps
@@ -20,7 +20,7 @@ Others:
 
 ### Schematic
 
- ![Schematic](./imgs./schematic.png?raw=true)
+ ![Schematic](./imgs/schematic.png?raw=true)
 
 ### PCB
 
