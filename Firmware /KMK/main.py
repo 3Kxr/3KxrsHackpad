@@ -3,7 +3,7 @@ import digitalio
 from kmk import KMKKeyboard
 from kmk.keys import KC
 from kmk.modules import Layer
-
+import kb
 
 keyboard = KMKKeyboard()
 

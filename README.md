@@ -1,4 +1,8 @@
-# 3Kxr’s hackpad
+# 3Kxr’s hackpad 
+
+> update v1.1
+
+
 Bom：
 4x Cherry MX Switches
     2x SK6812 MINI Leds
@@ -6,12 +10,13 @@ Bom：
     4x Blank DSA Keycaps
     4x M3x16 Bolt
     4x M3 Heatset
+    1x EC11 Rotary encoders
 
 Others:
 
     KMK Firmware
-    3kxr's toy top case.stl
-    3kxr's toy case.stl
+    3kxr's HackPad top case.stl
+    3kxr's HackPad case.stl
 
 ### Schematic
 

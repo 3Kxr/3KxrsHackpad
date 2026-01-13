@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "peter hackpad.kicad_pro",
+    "filename": "hack pad v2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -611,7 +611,7 @@
   },
   "sheets": [
     [
-      "ccfc4db4-4707-4727-b393-cae2ba282e2f",
+      "5d5a03e9-87c1-4a58-a39a-00d33ec86851",
       "Root"
     ]
   ],

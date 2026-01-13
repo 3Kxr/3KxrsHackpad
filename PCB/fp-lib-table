@@ -1,5 +1,5 @@
 (fp_lib_table
   (version 7)
-  (lib (name "OPL Lib")(type "KiCad")(uri "/Volumes/ME600/download/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "OPL Lib")(type "KiCad")(uri "/Volumes/ME600/download/OPL_Kicad_Library/Seeed Studio XIAO Series Library")(options "")(descr ""))
   (lib (name "icon")(type "KiCad")(uri "/Volumes/ME600/icon")(options "")(descr ""))
 )
