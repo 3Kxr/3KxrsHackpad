@@ -31,4 +31,4 @@ Others:
 ![Case](./imgs/case.jpg?raw=true)
 
 ### Assemble
-![Assemble](./imgs/assemble?raw=true)
+![Assemble](./imgs/assemble.jpg?raw=true)
