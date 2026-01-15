@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "hack pad v2.kicad_pro",
+    "filename": "3Kxr's HackPad v1.1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "3Kxr's HackPad v1.1.stl",
       "svg": "",
       "vrml": ""
     },
