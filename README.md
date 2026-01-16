@@ -15,20 +15,21 @@ Bom：
 Others:
 
     KMK Firmware
-    3kxr's HackPad top case.stl
-    3kxr's HackPad case.stl
+    3Kxr's HackPad v1.1 top case.stl
+    3Kxr's HackPad v1.1 case.stl
+    3Kxr HackPad v1.1 assembled.stl
 
 ### Schematic
 
- ![Schematic](./imgs/schematic.jpg?raw=true)
+ ![Schematic](./assets/schematic.jpg?raw=true)
 
 ### PCB
 
-![PCB](./imgs/pcb.jpg?raw=true)
+![PCB](./assets/pcb.jpg?raw=true)
 
 ### Case
 
-![Case](./imgs/case.jpg?raw=true)
+![Case](./assets/case.jpg?raw=true)
 
 ### Assemble
-![Assemble](./imgs/assemble.jpg?raw=true)
+![Assemble](./assets/assemble.jpg?raw=true)
