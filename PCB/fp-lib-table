@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "OPL Lib")(type "KiCad")(uri "/Volumes/ME600/download/OPL_Kicad_Library/Seeed Studio XIAO Series Library")(options "")(descr ""))
   (lib (name "icon")(type "KiCad")(uri "/Volumes/ME600/icon")(options "")(descr ""))
+  (lib (name "SK6812MINI-E")(type "KiCad")(uri "/Volumes/ME600/download/SK6812MINI-E/footprints.pretty")(options "")(descr ""))
+  (lib (name "MINI-E")(type "KiCad")(uri "/Users/peter/Downloads/my_kicad_libs/my_kicad_libs.pretty")(options "")(descr ""))
 )

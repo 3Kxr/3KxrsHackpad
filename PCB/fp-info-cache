@@ -1,4 +1,4 @@
-27278303142322756
+27281840093992226
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -71805,6 +71805,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MINI-E
+LED-SMD_L3.2-W2.8-LS5.9_SK6812MINI-E
+
+
+0
+4
+4
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -98790,6 +98797,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SK6812MINI-E
+SK6812MINI-E_fixed
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
