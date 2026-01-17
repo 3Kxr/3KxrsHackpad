@@ -1,4 +1,4 @@
-27281840093992226
+27283606058015709
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98798,7 +98798,14 @@ rotary encoder illuminated switch vertical
 9
 8
 SK6812MINI-E
-SK6812MINI-E_fixed
+SK6812-MINI-E
+
+
+0
+4
+4
+SK6812MINI-E
+SK6812MINI-E
 Add-on for regular MX-footprints with SK6812 MINI-E
 cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
 0
