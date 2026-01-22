@@ -1,6 +1,6 @@
-# 3Kxr’s Hackpad 
+# 3Kxr’s Hackpad v1.1
 
-> update v1.1
+> To facilitate the implementation of hotkeys, four keys were designed, whose functions are inspired by the Stream Deck. However, since the Stream Deck is too expensive, I designed this macro keyboard as my own.
 
 
 Bom：
